@@ -39,7 +39,7 @@ If the command doesn't return a filepath to the `git` executable, first make sur
 pixi global install git
 ```
 
-You can now use the Git anywhere on your machine.
+You can now use Git anywhere on your machine.
 
 ## Setup
 
